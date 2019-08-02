@@ -1,7 +1,7 @@
 # install-redis-mac
 Install Redis Mac Mojave 
 
-#intall shell command
+#intall-shell-command
 brew install redis
 
 #Launch Redis on computer starts.
